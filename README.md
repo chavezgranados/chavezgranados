@@ -1,13 +1,14 @@
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+
 <h1 align="center"><b>Hi , I'm Luis </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
+
+
+
 <!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Connect with me🤝</h2></summary>
-  </ul>
-</div>
 
 <!--icons and links-->
 <p align="center">
