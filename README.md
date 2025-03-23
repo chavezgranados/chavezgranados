@@ -7,7 +7,7 @@
 
 
 <p align = "center">
-	<img src = "https://github.com/chavezgranados/chavezgranados/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/chavezgranados/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <div align="center">
 
