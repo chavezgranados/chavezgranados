@@ -1,4 +1,4 @@
-<p align = "center">
+<p align = "left">
 	<img src = "https://komarev.com/ghpvc/?username=chavezgranados&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
