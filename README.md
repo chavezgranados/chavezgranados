@@ -16,6 +16,10 @@ I am an economist, specializing in pure economics and quantitative methods. I ho
   &emsp;
   <a href="https://www.stata.com/" target="_blank"> 
     <img alt="Stata" src="https://img.shields.io/badge/Stata-%23007ACC.svg?style=plastic&logo=stata&logoColor=white">
+  </a>
+  &emsp; 
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
