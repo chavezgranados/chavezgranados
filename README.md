@@ -6,7 +6,6 @@
 I am an economist, specializing in pure economics and quantitative methods. I hold a Master's degree in economics and a PhD candidate in economics. I currently work as an economic analyst and professor. My main interests are statistics, polytopes, soccer, and programming with Stata and Python.
 
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=chavezgranados&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chavezgranados&layout=compact)](https://github.com/chavezgranados/github-readme-stats)
 
 
