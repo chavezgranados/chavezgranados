@@ -3,7 +3,7 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> About me
-
+I am an economist, specializing in pure economics and quantitative methods. I hold a Master's degree in economics and a PhD candidate in economics. I currently work as an economic analyst and professor. My main interests are statistics, polytopes, soccer, and programming with Stata and Python.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
