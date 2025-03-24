@@ -11,19 +11,24 @@ I am an economist, specializing in pure economics and quantitative methods. I ho
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
+  </a>
+	&nbsp;
   <a href="https://www.stata.com/" target="_blank"> 
     <img alt="Stata" src="https://img.shields.io/badge/Stata-%23007ACC.svg?style=plastic&logo=stata&logoColor=white">
   </a>
+	&nbsp;
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
     <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%23FF8200.svg?style=plastic&logo=mathworks&logoColor=white">
-  </a> 
+  </a>
+	&nbsp;
   <a href="https://www.r-project.org/" target="_blank"> 
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white">
-  </a> 
+  </a>
+	&nbsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
+	&nbsp;
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
