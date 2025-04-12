@@ -53,14 +53,14 @@ I am an economist, specializing in pure economics and quantitative methods. I ho
 Last Edited on: 23/03/2025
 
 <p align="center">
-  <a href="https://github.com/chavezgranados">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chavezgranados&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/chavezgranados">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chavezgranados&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=default"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chavezgranados&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=default&hide_border=true"/>
 </p>
