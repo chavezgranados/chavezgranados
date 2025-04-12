@@ -60,20 +60,3 @@ I am an economist, specializing in pure economics and quantitative methods. I ho
 
 
 Last Edited on: 23/03/2025
-
-<p align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chavezgranados&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavezgranados&layout=compact&langs_count=8&theme=default"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chavezgranados&theme=default&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yoyoyohamapi/3d-profile-contributions/main/profile-night-rainbow.svg" alt="3D contributions" />
-</p>
