@@ -5,9 +5,18 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> About me
 I am an economist, specializing in pure economics and quantitative methods. I hold a Master's degree in economics and a PhD candidate in economics. I currently work as an economic analyst and lecturer. My main interests are statistics, polytopes, soccer, and programming with Stata and Python.
 
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=chavezgranados&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chavezgranados&layout=compact)](https://github.com/chavezgranados/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=default"/>
+  </a>
+</p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=default&hide_border=true"/>
+</p>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
@@ -51,16 +60,3 @@ I am an economist, specializing in pure economics and quantitative methods. I ho
 
 
 Last Edited on: 23/03/2025
-
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=default"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=default&hide_border=true"/>
-</p>
