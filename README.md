@@ -60,3 +60,19 @@ I am an economist, specializing in pure economics and quantitative methods. I ho
 
 
 Last Edited on: 23/03/2025
+
+
+> 3D Contrib
+
+<div align="center">
+  <img  src = "https://github.com/chaezgranados/blob/master/profile-3d-contrib/profile-season-animate.svg"
+       alt="3d-contrib" height = 85% width = 70% /></a>
+</div>
+
+> Contribution Graph
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
