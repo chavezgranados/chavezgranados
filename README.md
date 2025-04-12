@@ -6,11 +6,11 @@
 I am an economist, specializing in pure economics and quantitative methods. I hold a Master's degree in economics and a PhD candidate in economics. I currently work as an economic analyst and lecturer. My main interests are statistics, polytopes, soccer, and programming with Stata and Python.
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/chavezgranados">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chavezgranados&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=default"/>
+  <a href="https://github.com/chavezgranados">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chavezgranados&layout=compact&langs_count=8&theme=default"/>
   </a>
 </p>
 
