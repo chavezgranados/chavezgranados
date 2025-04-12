@@ -15,7 +15,7 @@ I am an economist, specializing in pure economics and quantitative methods. I ho
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chavezgranados&theme=default&hide_border=true"/>
 </p>
 
 
