@@ -64,15 +64,15 @@ Last Edited on: 23/03/2025
 
 > 3D Contrib
 
-<div align="center">
-  <img  src = "https://github.com/chaezgranados/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/chavezgranados">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chavezgranados&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/chavezgranados">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chavezgranados&layout=compact&langs_count=8&theme=vue"/>
+  </a>
+</p>
 
-> Contribution Graph
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chavezgranados&theme=vue&hide_border=true"/>
+</p>
