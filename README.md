@@ -64,15 +64,17 @@ Last Edited on: 23/03/2025
 
 > 3D Contrib
 
-<p align="center">
-  <a href="https://github.com/chavezgranados">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chavezgranados&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/chavezgranados">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chavezgranados&layout=compact&langs_count=8&theme=vue"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chavezgranados&theme=vue&hide_border=true"/>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tuusuario/chavezgranados/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tuusuario/chavezgranados/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/tuusuario/chavezgranados/output/github-contribution-grid-snake.svg"
+  />
+</picture>
