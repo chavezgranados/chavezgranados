@@ -3,7 +3,7 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> About me
-I am an economist, specializing in pure economics and quantitative methods. I am currently pursuing a Ph.D. in Economics and hold a Master's degree in Economics. I currently work as an economic analyst and lecturer. My main interests are statistics, polytopes, matching theory, and programming with Stata and Python.
+I am an economist specializing in pure economics and quantitative methods. I am currently pursuing a Ph.D. in Economics and hold a Master's degree in Economics. I work as an economic analyst and lecturer. My main research interests include statistics, polytopes, matching theory, and programming in Stata and Python.
 
 <p align="center">
   <a href="https://github.com/chavezgranados">
